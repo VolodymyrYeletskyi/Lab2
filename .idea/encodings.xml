@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/DBSaving.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Fish.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/SavingInterface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/TXTSaving.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fishService/FishService.java" charset="UTF-8" />
+  </component>
+</project>
