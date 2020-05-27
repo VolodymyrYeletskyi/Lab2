@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 public class Config {
 
     @Bean(name = "defaultFish")
-    public Fish getDefaultCar(){
+    public Fish getDefaultFish(){
         return new Fish();
     }
 }
